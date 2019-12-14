@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="18983" started-at="2019-12-14T00:47:08 CET" finished-at="2019-12-14T00:47:27 CET">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="18983" started-at="2019-12-14T00:47:08 CET" finished-at="2019-12-14T00:47:27 CET">
+      <class name="tests.ExcelLogin">
+        <test-method status="PASS" signature="setup()[pri:0, instance:tests.ExcelLogin@43814d18]" name="setup" is-config="true" duration-ms="5899" started-at="2019-12-14T00:47:08 CET" finished-at="2019-12-14T00:47:14 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="excelLogin()[pri:0, instance:tests.ExcelLogin@43814d18]" name="excelLogin" duration-ms="13062" started-at="2019-12-14T00:47:14 CET" finished-at="2019-12-14T00:47:27 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- excelLogin -->
+      </class> <!-- tests.ExcelLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
